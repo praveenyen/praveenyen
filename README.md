@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+Praveen Yen 👋
+Senior Front End Developer
+<p align="left">
+<a href="mailto:praveenyeng@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/praveenyengilichetty/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
-You can use the [editor on GitHub](https://github.com/praveenyen/praveenyen/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+🤔 About Me
+I'm a dynamic Senior Software Engineer with a proven track record at Credit Saison India, specializing in React.js and AWS . I enjoy collaborating with cross-functional teams to drive efficiency, enhance performance, and create optimal user experiences . I recently led an initiative that achieved a 20% reduction in loan application processing time through innovative dashboard enhancements .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/praveenyen/praveenyen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+🚀 Technical Skills
+Category	Skills
+Languages	Node JS Typescript Python JavaScript Java
+Frontend	NextJS ReactJS ExpressJS React Native HTML CSS SCSS SASS Redux Zustand Redux Toolkit
+Testing & Viz	PlayWright D3JS Recharts
+Databases	MongoDB MySQL PostgreSQL
+Tools & Platforms	Git GitHub BitBucket IntelliJ VS Code Jira
